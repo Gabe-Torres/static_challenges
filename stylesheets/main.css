@@ -1,0 +1,17 @@
+header {
+  background: tomato;
+  height: 33px;
+  padding: 14px
+}
+
+div {
+  background-color: gray;
+  height: 24px;
+}
+
+footer {
+  background-color: gray;
+  height: 33px;
+  padding: 10px;
+
+}
